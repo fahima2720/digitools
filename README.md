@@ -1,16 +1,35 @@
-# React + Vite
+#  DigiTools - Premium Digital Tools Buying Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern digital product marketplace built with React.js where users can browse, add to cart, and purchase premium digital tools.
 
-Currently, two official plugins are available:
+##  Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Click here to visit DigiTools](YOUR_LIVE_LINK_HERE)
 
-## React Compiler
+##  Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React.js** - Frontend framework
+- **Tailwind CSS** - Utility-first CSS framework
+- **DaisyUI** - Tailwind CSS component library
+- **JavaScript (ES6+)** - Programming language
+- **React-Toastify** - Toast notifications
+- **JSON** - Product data storage
+- **Vite** - Build tool
 
-## Expanding the Oxlint configuration
+##  Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. **Product Catalog** - Browse 6 premium digital tools in a responsive 3-column grid with tags like Best Seller, Popular, and New
+2. **Shopping Cart** - Add products to cart, view total price, remove items, and proceed to checkout with toast notifications
+3. **Fully Responsive** - Works seamlessly across mobile, tablet, and desktop devices
+
+##  Sections
+
+- Navbar with cart count
+- Hero Banner
+- Stats Section
+- Products & Cart Toggle
+- Steps Section
+- Pricing
+
+##  Live Site
+[Click here to visit DigiTools](https://velvety-llama-7bad88.netlify.app)
