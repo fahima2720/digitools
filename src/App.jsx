@@ -75,6 +75,8 @@ function App() {
               ? "bg-purple-600 text-white"
               : "border border-purple-600 text-purple-600 hover:bg-purple-50"
           }`}
+
+        
         >
           Cart ({cartItems.length})
         </button>
