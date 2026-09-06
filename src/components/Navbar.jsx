@@ -31,6 +31,7 @@ function Navbar({ cartCount, view, setView }) {
               {cartCount}
             </span>
           )}
+          
         </button>
       </div>
     </nav>
