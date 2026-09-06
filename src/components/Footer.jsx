@@ -47,6 +47,7 @@ function Footer() {
           <span>Privacy Policy</span>
           <span>Terms of Service</span>
           <span>Cookies</span>
+          
         </div>
       </div>
     </footer>
